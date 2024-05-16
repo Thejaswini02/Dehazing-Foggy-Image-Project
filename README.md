@@ -1,4 +1,4 @@
-# Single-Image-Dehazing-Python
+# Single-Image-Dehazing-Python using DCP (Dark Channel Prior) Method
 python implementation of the paper: "Efficient Image Dehazing with Boundary Constraint and Contextual Regularization"
 
 ## Understand the best hyperparameters for your use case: :eyes:
